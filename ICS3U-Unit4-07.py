@@ -7,7 +7,6 @@
 
 def main():
 
-
     # Process and Output
     for counter in range(1000, 2001):
         if counter % 5 == 0:
